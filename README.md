@@ -30,7 +30,7 @@
 
 <br>
 <h1 align="center">Programming Languages & Databases.</h1>
----
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/%20-%23323330.svg?&style=for-the-badge&logo=C&logoColor=white"/>
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Fortran%20-%66ff00.svg?&style=for-the-badge&logo=F&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Julia%20-E4007C.svg?&style=for-the-badge&logo=F&logoColor=white"/> 
 <img src="https://img.shields.io/badge/python%20-00BFFF.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/wolfram%20-DD1100.svg?&style=for-the-badge&logo=wolfram&logoColor=white"/>
+<img src="https://img.shields.io/badge/wolfram%20-DD1100.svg?&style=for-the-badge&logo=wolfram&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/mongodb%20-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql%20-005EFF.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
