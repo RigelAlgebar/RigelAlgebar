@@ -29,6 +29,25 @@
 ---
 
 <br>
+<h1 align="center">Programming Languages & Databases.</h1>
+---
+
+<p align="center">
+<img src="https://img.shields.io/badge/%20-%23323330.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img src="https://img.shields.io/badge/Fortran%20-%66ff00.svg?&style=for-the-badge&logo=F&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Julia%20-E4007C.svg?&style=for-the-badge&logo=F&logoColor=white"/> 
+<img src="https://img.shields.io/badge/python%20-00BFFF.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/wolfram%20-DD1100.svg?&style=for-the-badge&logo=wolfram&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/mongodb%20-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql%20-005EFF.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgresql%20-%231572B6.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  
+</p>
+
+
+<br>
 <h1 align="center">Everything is data, including this profile.</h1>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RigelAlgebar&show_icons=true&theme=gotham" alt="RigelAlgebar" />
 
