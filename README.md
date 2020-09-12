@@ -3,7 +3,7 @@
   <font size="3">Artists: Hannes Hummel</font>
 </p>
 
-<h3>Hola Mundo y Bienvenido. My name is Miguel Angel. I am a Data Scientist and Quantum Chemist.</h3> 
+<h3 align="center">Hola Mundo y Bienvenido. My name is Miguel Angel. I am a Data Scientist and Quantum Chemist.</h3> 
 
 ---
 
@@ -26,10 +26,9 @@
   <img src="https://komarev.com/ghpvc/?username=RigelAlgebar" alt="https://github.com/RigelAlgebar" />
 </p>
 
-<!--
-**RigelAlgebar/RigelAlgebar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<br>
+<h1 align="center">Everything is data, including this profile.</h1>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RigelAlgebar&show_icons=true&theme=gotham" alt="RigelAlgebar" />
 
-
--->
