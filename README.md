@@ -30,5 +30,10 @@
 
 <br>
 <h1 align="center">Everything is data, including this profile.</h1>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RigelAlgebar&show_icons=true&theme=gotham" alt="RigelAlgebar" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=RigelAlgebar&show_icons=true&theme=gotham" alt="RigelAlgebar" />
 
+<!---
+<hr>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=RigelAlgebar&count_private=true>
+</hr>
+--->
