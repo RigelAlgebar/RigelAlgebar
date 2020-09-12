@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/images/worm-hole.jpg">
+  <img src="RigelAlgebar/media/images/worm-hole.jpg">
   <font size="3">Artists: Hannes Hummel</font>
 </p>
 
@@ -9,9 +9,9 @@
 
 * 👨‍💻📄 Tech Resume: [Data Scientist CV](https://drive.google.com/file/d/1JfUJHPecBlt52lH3HGhr8k6rO7GTIdiZ/view?usp=sharing)
 * 🎓📄 Academic Resume: [Academic CV](https://drive.google.com/file/d/1NJ0cek2Ht7tlxvWMrgWaRrCIAyYAukwN/view?usp=sharing)
-- 🔭 I’m currently working on lots of cool projects with machine learning. 🤖
+- 🔭 I’m currently working on lots of cool projects using machine learning. 🤖
 - 🌱 I’m currently learning Quantum Computing and Quantum Information Theory. ⚛️🖥️
-- 🧑🏻‍🤝‍🧑🏽 I’m looking to collaborate on ...
+- 🧑🏻‍🤝‍🧑🏽 I’m looking to collaborate on the application of ML ideas on chemistry and physics. 🌟
 - 🤔 I’m looking for help with Natural Language Procesing. 🦜
 - 💬 Ask me about anything you think I might be able to help with! 💡
 - 🥅 2020 goal: to publish some of my work on machine learning. 📃
