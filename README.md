@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="RigelAlgebar/media/images/worm-hole.jpg">
+  <img src="https://github.com/RigelAlgebar/RigelAlgebar/blob/master/media/images/worm-hole.jpg">
   <font size="3">Artists: Hannes Hummel</font>
 </p>
 
