@@ -1,4 +1,7 @@
-### Hi there 👋
+
+
+### Hola Mundo y Bienvenido. My name is Miguel Angel. I am a Data Scientist and Quantum Chemist.
+---
 
 <!--
 **RigelAlgebar/RigelAlgebar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
