@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/RigelAlgebar/RigelAlgebar/blob/master/media/images/worm-hole.jpg">
-  <font size="3">Artists: Hannes Hummel</font>
+  <font size="3">Artist: Hannes Hummel</font>
 </p>
 
 <h3 align="center">Hola Mundo y Bienvenido. My name is Miguel Angel. I am a Data Scientist and Quantum Chemist.</h3> 
