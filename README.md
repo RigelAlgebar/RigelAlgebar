@@ -14,7 +14,7 @@
 - 🧑🏻‍🤝‍🧑🏽 I’m looking to collaborate on the application of ML ideas on chemistry and physics. 🌟
 - 🤔 I’m looking for help with Natural Language Procesing. 🦜
 - 💬 Ask me about anything you think I might be able to help with! 💡
-- 🥅 2020 goal: to publish some of my work on machine learning. 📃
+- 🥅 2021 goal: to publish some of my work on machine learning. 📃
 - ⚡ Fun fact: I like acting and I have participated in a few short films. 🎭
 
 <br>
